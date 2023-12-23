@@ -1,13 +1,9 @@
 {
   "posts": [
-    {
-    "Id": 0,
-    "userId": 1,
-    "title": "foo",
-    "body": "bar2"
-    }
+    {"Id": 1, "title": "foo", "body": "bar1"},
+    {"Id": 2, "title": "foo", "body": "bar2"}
   ],
   "profile": {
-    "name": "typicode"
+    "name": "pnpgr"
   }
 }
