@@ -1,7 +1,7 @@
 {
   "posts": [
-    {"Id": 1, "title": "foo", "body": "bar1"},
-    {"Id": 2, "title": "foo", "body": "bar2"}
+    {"id": 0, "title": "foo", "body": "bar1"},
+    {"id": 1, "title": "foo", "body": "bar2"}
   ],
   "profile": {
     "name": "pnpgr"
